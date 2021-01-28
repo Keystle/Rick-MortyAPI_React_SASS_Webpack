@@ -4,3 +4,7 @@ This project was done during the course of one of the courses I took at Udemy
 
 Un proyecto chico en React con una API de personajes de la serie tv de Rick y Morty. 
 Este proyecto fue hecho durante el transcurso de uno de los cursos que cursé en Udemy
+
+
+https://raw.githubusercontent.com/Keystle/Rick-MortyAPI_React_SASS_Webpack/blob/master/image.png
+
