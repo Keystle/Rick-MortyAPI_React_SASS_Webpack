@@ -6,5 +6,4 @@ Un proyecto chico en React con una API de personajes de la serie tv de Rick y Mo
 Este proyecto fue hecho durante el transcurso de uno de los cursos que cursé en Udemy
 
 
-(https://raw.githubusercontent.com/Keystle/Rick-MortyAPI_React_SASS_Webpack/blob/master/image.png)
-
+(https://raw.githubusercontent.com/Keystle/Rick-MortyAPI_React_SASS_Webpack/master/image.png)
